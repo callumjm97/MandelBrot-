@@ -3,7 +3,7 @@ import pygame
 from pygame.locals import QUIT
 from sys import exit
 
-size = 400
+size = 512
 
 pygame.init()
 surface = pygame.display.set_mode((size, size), 0, 32)
